@@ -13,6 +13,7 @@ This repository contains:
 - plotting helpers (`plotting_utils.py`)
 - small data structures / containers (`data_classes.py`)
 - a runnable notebook entry point (`main.ipynb`)
+- a gradient test notebook ('test_gradients.ipynb')
 
 ## Quick start
 
